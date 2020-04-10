@@ -11,17 +11,6 @@ https://apps.apple.com/us/app/recollections-good-times/id1505236613
 
 <img src="Screenshots/Dashboard.png" width="250"> <img src="Screenshots/EventDetail.png" width="250"> <img src="Screenshots/MemoryDetail.png" width="250"> <img src="Screenshots/EditMemory.png" width="250"> <img src="Screenshots/MemoryDetailNotes.png" width="250">
 
-## Technical Requirements
-* iOS Version 13.0+
-* Xcode Version 11.3
-* Swift Version 5
-
-## Build Instructions
-1. Download the project's ZIP file and extract the project's files
-2. Open the Recollections-master folder and click on the Recollections.xcodeproj file
-3. Select a physical iPhone or an iPhone simulator
-4. Click the play button to build and run the app 
-
 ## Detailed Walkthrough
 Upon opening the app, the default background color is purple. The user can change the background color through settings on the top left corner. On the top right corner, the user can add a new event.
 
